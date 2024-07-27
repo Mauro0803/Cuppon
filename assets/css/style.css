@@ -1,0 +1,27 @@
+body * {
+    font-family: "Roboto", sans-serif;
+  }  
+  
+    .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+   .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  .recibe {
+    text-align: center;
+  }
+
+  .formulario {
+    background-color: #28A745;
+  }
+
+  #navbar {
+    background-color: #28A745;
+  }
